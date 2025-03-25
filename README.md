@@ -2,7 +2,7 @@
 
 A simple Tic-Tac-Toe game.
 
-#Features
+## Features
 
 Play against AI or another player
 
@@ -12,7 +12,7 @@ Undo/Redo functionality
 
 Score tracking
 
-#How to Play
+## How to Play
 
 The game board consists of a 3x3 grid.
 
