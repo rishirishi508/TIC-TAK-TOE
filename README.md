@@ -1,4 +1,4 @@
-#Tic-Tac-Toe
+##Tic-Tac-Toe
 
 A simple Tic-Tac-Toe game.
 
